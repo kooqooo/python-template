@@ -1,14 +1,15 @@
 ---
-name: Feature request
-about: 새로운 기능을 추가할 때 사용하는 템플릿 (각자 수정)
-title: "[FEAT] 제목을 써주세요"
-labels: ''
+name: 🚀 Feature Request
+about: 새로운 기능을 추가할 때 사용하는 템플릿
+title: "[FEAT] 제목"
+labels: 'enhancement'
 assignees: ''
 
 ---
 
-## Background
+## 📜 Background
+<!-- 간단한 설명 -->
 - 
 
-## To do 
+## 📝 To do 
 - [ ]
