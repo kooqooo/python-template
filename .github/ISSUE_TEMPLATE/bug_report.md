@@ -13,5 +13,5 @@ assignees: ''
 ## 📝 To do 
 - [ ]
 
-## Screenshos
+## Screenshots
 <!-- 있으면 추가 -->
